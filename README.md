@@ -1,2 +1,2 @@
 # bruteforce
-A very basic brute force tool. Built for X11 systems.
+A very basic brute force tool/experiment. Built for X11 systems.
